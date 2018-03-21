@@ -82,6 +82,7 @@ ul li {
 	padding-right: 100px; 
 	padding-left: 100px;
 	background-size: : 10px; 
+	text-align: center;
 
 }
 
@@ -171,15 +172,15 @@ ul li div a:hover, .dropdown:hover .dropbtn {
 }
 
 #pagevideo {
-	padding-right: 650px;
-	padding-left: 650px;
+	padding-right: 200px;
+	padding-left: 200px;
  	padding-top: none;
  	padding-bottom: none;
 }
 
 #pagesound {
-	padding-right: 650px;
-	padding-left: 650px;
+	padding-right: 200px;
+	padding-left: 200px;
 	padding-top: none;
  	padding-bottom: none;
 }
