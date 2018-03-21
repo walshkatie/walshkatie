@@ -173,11 +173,15 @@ ul li div a:hover, .dropdown:hover .dropbtn {
 #pagevideo {
 	padding-right: 650px;
 	padding-left: 650px;
+ 	padding-top: none;
+ 	padding-bottom: none;
 }
 
 #pagesound {
 	padding-right: 650px;
 	padding-left: 650px;
+	padding-top: none;
+ 	padding-bottom: none;
 }
 
 
