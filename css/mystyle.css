@@ -170,7 +170,13 @@ ul li div a:hover, .dropdown:hover .dropbtn {
 	color
 }
 
+#pagevideo h3 {
+	width: 600px;
+}
 
+#pagesound h3{
+	width:: 600px;
+}
 
 
 
