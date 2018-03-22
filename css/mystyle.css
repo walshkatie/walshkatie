@@ -168,12 +168,18 @@ ul li div a:hover, .dropdown:hover .dropbtn {
 	color:#f7f7f7;
 }	
 
+#pagecollage {
+	padding-right: 400px;
+	padding-left: 400px;
+}
+
 #pageglitch h2 a {
 	color
 }
 
-#pageglitch img {
-	padding-bottom: 50px; 
+#pageglitch {
+	padding-right: 400px;
+	padding-left: 400px;
 }
 
 #pagevideo {
