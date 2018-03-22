@@ -79,8 +79,8 @@ ul {
 ul li {
 	float: left;
 	list-style-type: none; 
-	padding-right: 150px; 
-	padding-left: 150px;
+	padding-right: 100px; 
+	padding-left: 100px;
 	background-size: : 10px; 
 	text-align: center;
 
@@ -132,6 +132,7 @@ ul img:hover {
 ul li div a:hover, .dropdown:hover .dropbtn {
     background-color: #d8d8d8;
     color: white;
+    padding-left: 50px;
 }
 
 .dropdown-content {
