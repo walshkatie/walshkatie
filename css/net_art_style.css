@@ -1,8 +1,33 @@
 body img {
+  padding-top: 30px;
    background-size:contain;
    /*background-position: center center;
    background-attachment: fixed;*/
    background-repeat:no-repeat;
    width: 100%;
    height: auto;
+}
+
+body div{
+    display: none;
+    border:none;
+    height:0px;
+    width:100%;
+    margin-left:10px;
+    text-align: center;
+    font-size: 20px;
+    color: transparent;
+}
+
+body div:hover{
+    color: black;
+}
+
+area:hover + div {
+    display: block;
+}​
+
+body img{
+  background-image: url(images/cell.jpg);
+  background-repeat: repeat;
 }
