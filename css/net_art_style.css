@@ -16,10 +16,14 @@ body div{
     margin-left:10px;
     text-align: center;
     font-size: 20px;
-    color: transparent;
 }
 
-body div:hover{
+div{
+  text-decoration: none;
+  color: transparent;
+}
+
+div:hover{
     color: black;
 }
 
