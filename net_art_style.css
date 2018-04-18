@@ -1,0 +1,20 @@
+body img {
+   background-size:contain;
+   /*background-position: center center;
+   background-attachment: fixed;*/
+   background-repeat:no-repeat;
+   width: 100%;
+   height: auto;
+}
+
+body div{
+    display: none;
+    border:1px solid #000;
+    height:30px;
+    width:290px;
+    margin-left:10px;
+}
+
+area:hover + div {
+    display: block;
+}​
