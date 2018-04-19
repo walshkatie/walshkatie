@@ -173,15 +173,18 @@ ul li div a:hover, .dropdown:hover .dropbtn {
 	padding-left: 25%;
 }
 
-#netart{
+a #netart{
 	margin: 40px auto; 
 	text-align: center; 
 	padding: none;
 	color: #f9ca2c;
 	font-size: 20px;
 	font-style: italic
+}
 
-
+a #netart:hover{
+	color:#f7f7f7
+	font-style:none;
 }
 
 
