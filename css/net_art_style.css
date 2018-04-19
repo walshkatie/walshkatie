@@ -8,7 +8,7 @@ body img {
    height: auto;
 }
 
-body div{
+div{
     display: none;
     border:none;
     height:0px;
@@ -22,6 +22,10 @@ area:hover + div {
     display: block;
 }​
 
+body img{
+  background-image: url(images/cell.jpg);
+  background-repeat: repeat;
+}
 
 /*div{
   text-decoration: none;
@@ -33,7 +37,4 @@ div:hover{
 }*/
 
 
-body img{
-  background-image: url(images/cell.jpg);
-  background-repeat: repeat;
-}
+
